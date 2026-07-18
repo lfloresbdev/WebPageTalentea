@@ -3,7 +3,7 @@ function CuerpoInicio() {
     <main className="container mx-auto px-4 py-8">
       <div className="w-90">
         <h2 className="text-3xl font-bold mb-8 text-blue-800 w-65">
-          CONECTAMOS TALENTO CON OPORTUNIDADES
+          CONECTAMOS <span className="text-pink-500">TALENTO</span> CON OPORTUNIDADES
         </h2>
         <p className="text-blue-800 mb-8 w-90">
           En talentea encontramos a las personas que impulsan el crecimiento de
