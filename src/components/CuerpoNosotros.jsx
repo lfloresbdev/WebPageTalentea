@@ -1,6 +1,6 @@
 function CuerpoNosotros() {
   return (
-    <main className="container mx-auto px-4 py-8">
+    <main className="cuerpo-nosotros container mx-auto px-4 py-8">
       <div className="w-90">
         <h2 className="text-3xl font-bold mb-8 text-blue-800 w-120">
           ¿Por qué trabajar con <span className="text-pink-500">Talentea?</span>
