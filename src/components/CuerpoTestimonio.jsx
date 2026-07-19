@@ -59,15 +59,16 @@ function CuerpoTestimonio() {
                 
             </div>
 
-            <div className="footer-testimonios mx-auto px-4">
-                
-                <div className="bg-sky-700 w-176.5 h-59 rounded-lg p-6 items-center">
+            <div className="footer-testimonios mx-auto px-4 flex relative items-center  ">
+                <div className="bg-sky-700 w-176.5 h-59 rounded-lg p-6">
                     <h1 className="text-white font-bold text-3xl w-87 mb-3">¿Listos para su próximo desafío profesional?</h1>
                     <p className="text-white font-light text-sm w-74 mb-3">Postula ahora y da el siguiente paso a tu carrera o experiencia laboral</p>
                     <button className= "w-50 h-12.5 text-sky-700 bg-white rounded-lg text-lg">Postula aquí</button>    
                 </div>
 
-                <div href="#" ></div>
+                <div className="size-50 relative -ml-60 z-10">
+                    <img src="src/assets/images/IconoTransparenteTalentea.pe.png" alt="Icono Talentea"/>
+                </div>
             
             </div>
     </main>

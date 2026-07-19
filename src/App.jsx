@@ -11,11 +11,11 @@ function App() {
   return (
     <CabeceraPagina/>,
     <CuerpoInicio/>,
-    <CuerpoNosotros/>
-    //<CuerpoVacantes/>,
-    //<CuerpoTestimonio/>,
+    <CuerpoNosotros/>,
+    <CuerpoVacantes/>,
+    <CuerpoTestimonio/>,
     //<CuerpoMisionVision/>,
-    //<PieDePagina/>
+    <PieDePagina/>
   )
 }
 
