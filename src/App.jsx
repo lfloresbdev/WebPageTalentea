@@ -5,17 +5,19 @@ import CuerpoNosotros from './components/CuerpoNosotros'
 import CuerpoTestimonio from './components/CuerpoTestimonio'
 import CuerpoVacantes from './components/CuerpoVacantes'
 import CuerpoMisionVision from './components/CuerpoMisionVision'
-import PieDePagina from './components/PieDePagina'
+import PieDePagina from "./components/PieDePagina";
+import CuerpoPrueba from './components/CuerpoPrueba'
 
 function App() {
   return (
-    <CabeceraPagina/>,
-    <CuerpoInicio/>,
-    <CuerpoNosotros/>,
-    <CuerpoVacantes/>,
-    <CuerpoTestimonio/>,
-    //<CuerpoMisionVision/>,
-    <PieDePagina/>
+      <CabeceraPagina/>,
+      <CuerpoInicio/>,
+      <CuerpoNosotros/>,
+      <CuerpoVacantes/>,
+      <CuerpoTestimonio/>,
+      <CuerpoMisionVision/>,
+      <PieDePagina/>,
+      <CuerpoPrueba/>
   )
 }
 
