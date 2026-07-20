@@ -1,16 +1,46 @@
 import { SiWhatsapp, SiInstagram, SiTiktok, SiFacebook } from "react-icons/si";
-import { FaLinkedin } from "react-icons/fa6";
-import { FiMapPin } from "react-icons/fi";
+import { FaLinkedin, FaHandHoldingDollar } from "react-icons/fa6";
+import { FaCheckCircle, FaUserTie } from "react-icons/fa";
+import { HiSpeakerphone, HiArrowNarrowRight } from "react-icons/hi";
+import { IoMdMegaphone, IoIosArrowDropright } from "react-icons/io";
+import { LiaUserAstronautSolid } from "react-icons/lia";
+import { PiMapPinAreaBold } from "react-icons/pi";
 
 function CuerpoPrueba() {
     return (
         <div className="cuerpo-prueba">
-            <SiWhatsapp size={32} color="#25D366" />
-            <SiInstagram size={32} color="#E4405F" />
-            <SiTiktok size={32} />
-            <SiFacebook size={32} color="#1877F2" />
-            <FaLinkedin size={32} color="#0A66C2" />
-            <FiMapPin size={32} color="red" />
+            <SiWhatsapp className="size-8 text-green-500" />
+
+            <IoIosArrowDropright className="size-8 text-sky-700"/>
+
+            <IoIosArrowDropright className="size-8 text-white bg-pink-500"/>
+
+            <FaCheckCircle className="size-8 text-pink-500"/>
+
+            <HiArrowNarrowRight className="size-8 text-sky-700"/>
+
+            <HiSpeakerphone className="size-8 text-sky-700"/>
+
+            <IoMdMegaphone className="size-8 text-sky-700"/>
+
+            <FaUserTie className="size-8 text-sky-700"/>
+
+            <FaHandHoldingDollar className="size-8 text-sky-700"/>
+
+            <LiaUserAstronautSolid className="size-8 text-sky-700"/>
+
+            <SiFacebook className="size-8 text-white bg-sky-700" />
+
+            <SiInstagram className="size-8 text-white bg-sky-700" />
+
+            <SiTiktok className="size-8 text-white bg-sky-700" />
+
+            <FaLinkedin className="size-8 text-white bg-sky-700"/>
+
+            <SiWhatsapp className="size-8 text-white bg-sky-700" />
+
+            <PiMapPinAreaBold className="size-8 text-white bg-sky-700" />
+            
         </div>
     )
 }   
