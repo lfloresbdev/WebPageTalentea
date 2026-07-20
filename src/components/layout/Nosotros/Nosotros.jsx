@@ -1,4 +1,4 @@
-function CuerpoNosotros() {
+function Nosotros() {
   return (
     <main className="cuerpo-nosotros px-8 py-8 mx-auto content-center flex relative h-110">
         
@@ -37,4 +37,5 @@ function CuerpoNosotros() {
   );
 }
 
-export default CuerpoNosotros;
+export default Nosotros;
+

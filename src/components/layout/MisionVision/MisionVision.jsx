@@ -1,4 +1,4 @@
-function CuerpoMisionVision() {
+function MisionVision() {
     return (
         <main className="cuerpo-testimonio px-8 py-8 mx-auto flex flex-col items-center ">
             <div className="mision text-center w-100">
@@ -13,4 +13,4 @@ function CuerpoMisionVision() {
     );
 }
 
-export default CuerpoMisionVision;
+export default MisionVision;

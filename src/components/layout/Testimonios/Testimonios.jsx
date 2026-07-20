@@ -1,4 +1,4 @@
-function CuerpoTestimonio() {
+function Testimonios() {
   return (
         <main className="cuerpo-testimonio px-8 py-8 mx-auto content-center">
             <div className="cabecera-de-testimonios mx-auto px-4">
@@ -75,4 +75,5 @@ function CuerpoTestimonio() {
   );
 }
 
-export default CuerpoTestimonio;
+export default Testimonios;
+

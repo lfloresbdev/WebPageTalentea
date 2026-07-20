@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 
-function CuerpoVacantes() {
+function Vacantes() {
   return (
     <main className="cuerpo-vacantes px-8 py-8 mx-auto content-center">
 
@@ -40,4 +40,5 @@ function CuerpoVacantes() {
   );
 }
 
-export default CuerpoVacantes;
+export default Vacantes;
+

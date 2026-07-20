@@ -6,7 +6,7 @@ import { IoMdMegaphone, IoIosArrowDropright } from "react-icons/io";
 import { LiaUserAstronautSolid } from "react-icons/lia";
 import { PiMapPinAreaBold } from "react-icons/pi";
 
-function CuerpoPrueba() {
+function Prueba() {
     return (
         <div className="cuerpo-prueba">
             <SiWhatsapp className="size-8 text-green-500" />
@@ -45,4 +45,5 @@ function CuerpoPrueba() {
     )
 }   
 
-export default CuerpoPrueba;
+export default Prueba;
+

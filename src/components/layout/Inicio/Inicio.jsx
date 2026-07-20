@@ -1,4 +1,4 @@
-function CuerpoInicio() {
+function Inicio() {
   return (
     <main className="cuerpo-inicio px-8 py-8 mx-auto content-center flex">
       
@@ -34,4 +34,5 @@ function CuerpoInicio() {
   );
 }
 
-export default CuerpoInicio;
+export default Inicio;
+
