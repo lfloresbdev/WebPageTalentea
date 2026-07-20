@@ -12,14 +12,17 @@ function App() {
   return (
     <>
       <CabeceraPagina/>
-      <Inicio/>,
-      {/*<Nosotros/>,
-      //<MisionVision/>,
-      //<Vacantes/>,
+      <Inicio/>
+      <Nosotros/>
+      <Vacantes/>
+      <Testimonios/>
+      <Prueba/> 
+      {/*
+      //<MisionVision/>
       //<Testimonios/>,
       //<MisionVision/>,
       //<PieDePagina/>,
-      //<Prueba/> */}
+      */}
     </>
   )
 }

@@ -5,6 +5,7 @@ import { HiSpeakerphone, HiArrowNarrowRight } from "react-icons/hi";
 import { IoMdMegaphone, IoIosArrowDropright } from "react-icons/io";
 import { LiaUserAstronautSolid } from "react-icons/lia";
 import { PiMapPinAreaBold } from "react-icons/pi";
+import { FaUser } from "react-icons/fa";
 
 function Prueba() {
     return (
@@ -28,6 +29,8 @@ function Prueba() {
             <FaHandHoldingDollar className="size-8 text-sky-700"/>
 
             <LiaUserAstronautSolid className="size-8 text-sky-700"/>
+
+            <FaUser className="size-8 text-sky-700"/>
 
             <SiFacebook className="size-8 text-white bg-sky-700" />
 
