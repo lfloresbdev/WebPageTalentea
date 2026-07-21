@@ -38,9 +38,10 @@ function Nosotros() {
             
             <div className="boton-nosotros">
 
-                <button className="group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-white hover:text-pink-500 flex items-center">Conocenos más
+                <a href="#testimonios" className="w-52 group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-white hover:text-pink-500 flex items-center">
+                    Conocenos más
                     <IoIosArrowDropright className="pl-3 size-12 text-white group-hover:text-pink-500"/>
-                </button>
+                </a>
             
             </div>
         

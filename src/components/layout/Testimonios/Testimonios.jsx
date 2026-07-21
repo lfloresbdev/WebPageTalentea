@@ -114,10 +114,10 @@ function Testimonios() {
                 <div className="bg-sky-700 w-176.5 h-59 rounded-lg p-6">
                     <h1 className="text-white font-bold text-3xl w-87 mb-3">¿Listos para su próximo desafío profesional?</h1>
                     <p className="text-white font-light text-sm w-74 mb-3">Postula ahora y da el siguiente paso a tu carrera o experiencia laboral</p>
-                    <button className="group px-4 rounded font-bold bg-white border-2 border-sky-700 text-sky-700 hover:bg-sky-700 hover:text-white flex items-center">
+                    <a href="#landing" className="w-48.5 group px-4 rounded font-bold bg-white border-2 border-sky-700 text-sky-700 hover:bg-sky-700 hover:text-white flex items-center">
                         Postula Ahora
                         <IoIosArrowDropright className="pl-3 size-12 text-sky-700 group-hover:text-white"/>
-                    </button>
+                    </a>
                 </div>
 
                 <div className="size-50 relative -ml-60 z-10">
