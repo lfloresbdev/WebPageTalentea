@@ -20,14 +20,14 @@ function Inicio() {
 
         <div className="botones-inicio flex gap-4">
           
-          <button className="px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-white hover:text-pink-500 flex items-center">
+          <button className="group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-white hover:text-pink-500 flex items-center">
             Ver Vacantes
-            <IoIosArrowDropright className="pl-3 size-12 text-white hover:text-pink-500"/>
+            <IoIosArrowDropright className="pl-3 size-12 text-white group-hover:text-pink-500"/>
           </button>
 
-          <button className="px-4 rounded font-bold bg-white border-2 border-sky-700 text-sky-700 hover:bg-sky-700 hover:text-white flex items-center">
+          <button className="group px-4 rounded font-bold bg-white border-2 border-sky-700 text-sky-700 hover:bg-sky-700 hover:text-white flex items-center">
             Postula Ahora
-            <IoIosArrowDropright className="pl-3 size-12 text-sky-700 hover:text-white"/>
+            <IoIosArrowDropright className="pl-3 size-12 text-sky-700 group-hover:text-white"/>
           </button>
 
         </div>
