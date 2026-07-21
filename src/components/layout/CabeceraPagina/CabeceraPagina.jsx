@@ -2,7 +2,7 @@ import Navegacion from './Navegacion';
 
 function CabeceraPagina() {
   return (
-    <header className="pt-4 px-4 flex flex-wrap items-center gap-10 justify-between">
+    <header className="sticky top-0 z-50 bg-white shadow-sm py-4 px-4 flex flex-wrap items-center gap-10 justify-between">
 
       <div className="logo w-50">
         <img src="src/assets/images/PerfilBlancoTransparenteTalentea.pe.png" alt="Logo de Talentea"/>
