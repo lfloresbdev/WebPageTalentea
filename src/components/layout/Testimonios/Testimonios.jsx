@@ -3,7 +3,7 @@ import { IoIosArrowDropright } from "react-icons/io";
 
 function Testimonios() {
   return (
-        <main className="cuerpo-testimonio px-8 py-8 mx-auto content-center">
+        <main id="testimonios" className="cuerpo-testimonio px-8 py-8 mx-auto content-center scroll-mt-36">
             <div className="cabecera-de-testimonios mx-auto px-4">
                 
                 <h2 className="text-3xl font-bold mb-8 text-sky-700 w-115"><a className="underline decoration-pink-500 decoration-3 underline-offset-15">Lo q</a>ue dicen nuestros <span className="text-pink-500">talentos</span></h2>

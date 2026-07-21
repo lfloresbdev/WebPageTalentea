@@ -2,7 +2,7 @@ import { IoIosArrowDropright } from "react-icons/io";
 
 function Inicio() {
   return (
-    <main className="cuerpo-inicio w-full h-full pl-15 pb-8 flex justify-between items-center">
+    <main id="inicio" className="cuerpo-inicio w-full h-full pl-15 pb-8 flex justify-between items-center scroll-mt-50">
       
       <div className="contenido-izquierdo">
 

@@ -1,6 +1,6 @@
 function MisionVision() {
     return (
-        <main className="cuerpo-testimonio px-8 py-8 mx-auto flex flex-col items-center">
+        <main id="mision-vision" className="cuerpo-testimonio px-8 py-8 h-148 mx-auto flex flex-col items-center scroll-mt-36">
             <div className="mision text-center w-100 flex flex-col items-center">
                 <h2 className="text-3xl font-bold mb-4 text-sky-700">Nuest<a className="underline decoration-sky-700 decoration-3 underline-offset-15">ra m</a>isión</h2>
                 <p className="text-neutral-600 text-2xl mb-10 text-justify w-150">Impulsamos el crecimiento de las organizaciones identificando y conectando talento con potencial, experiencia y compromiso, generando oportunidades que beneficien tanto a las empresas como a las personas.</p>

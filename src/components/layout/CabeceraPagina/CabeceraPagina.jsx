@@ -13,7 +13,7 @@ function CabeceraPagina() {
         <Navegacion />
 
         <div className="boton-postula w-47">
-          <button className="bg-pink-500 text-white font-bold py-2.5 px-6 rounded-3xl">POSTULA AHORA</button>
+          <a href="#landing" className="bg-pink-500 text-white font-bold py-2.5 px-6 rounded-3xl">POSTULA AHORA</a>
         </div>
 
       </div>
