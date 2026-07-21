@@ -7,6 +7,7 @@ import Vacantes from './components/layout/Vacantes/Vacantes'
 import MisionVision from './components/layout/MisionVision/MisionVision'
 import PieDePagina from "./components/layout/PieDePagina/PieDePagina";
 import Prueba from './components/layout/Prueba/Prueba'
+import Landing from './components/layout/Landing/Landing'
 
 function App() {
   return (
@@ -16,13 +17,9 @@ function App() {
       <Nosotros/>
       <Vacantes/>
       <Testimonios/>
-      <Prueba/> 
-      {/*
-      //<MisionVision/>
-      //<Testimonios/>,
-      //<MisionVision/>,
-      //<PieDePagina/>,
-      */}
+      <MisionVision/>
+      <Landing/>
+      <PieDePagina/>
     </>
   )
 }
