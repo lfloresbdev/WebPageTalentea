@@ -2,8 +2,10 @@ import { useNavigationIndicator } from '../../../hooks/UsarIndicadorNavegacion';
 import { navItems } from '../../../config/navegacion';
 
 function Navegacion() {
+  const sectionIds = navItems.map((item) => item.href.slice(1));
+
   const { indicatorStyle, ulRef, liRefs, updateIndicator } =
-    useNavigationIndicator();
+    useNavigationIndicator(sectionIds);
 
   return (
     <div className="navegacion w-157">
