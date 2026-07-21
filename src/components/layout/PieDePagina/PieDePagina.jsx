@@ -7,7 +7,7 @@ import { PiMapPinAreaBold } from "react-icons/pi";
 
 function PieDePagina() {
     return (
-        <footer className="pie-pagina bg-sky-700 px-4 py-4 mx-auto content-center flex gap-110 items-center justify-end">
+        <footer className="pie-pagina bg-sky-700 px-4 py-4 mx-auto content-center flex gap-103.5 items-center justify-end">
             <div className="logo-redes flex flex-col items-center">
                 <img src="src/assets/images/TalenteaFooter.png" className="text-2xl font-bold text-white w-60 h-auto"/>
                 <ul className="flex gap-2 mb-5">
