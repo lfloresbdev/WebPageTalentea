@@ -7,7 +7,7 @@ import { LiaUserAstronautSolid } from "react-icons/lia";
 
 function Vacantes() {
   return (
-    <main id="vacantes" className="cuerpo-vacantes px-8 py-8 h-146 mx-auto content-center scroll-mt-38">
+    <main id="vacantes" className="cuerpo-vacantes px-8 pb-14 h-162 mx-auto content-center scroll-mt-30">
 
       <div className="encabezado-vacantes flex justify-between items-center mb-11 pl-8">
         
@@ -19,7 +19,7 @@ function Vacantes() {
         
       </div>
 
-      <div className="cards-vacantes flex justify-center gap-10 items-center">
+      <div className="cards-vacantes flex justify-center gap-10 items-center pt-10">
 
         <Card className="bg-gray-50/35 text-white p-4 rounded-lg shadow-md w-67.5 h-106 text-center items-center">
           <IoMdMegaphone className="size-35 text-sky-700"/>

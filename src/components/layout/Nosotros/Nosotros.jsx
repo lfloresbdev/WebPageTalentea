@@ -3,7 +3,7 @@ import { IoIosArrowDropright } from "react-icons/io";
 
 function Nosotros() {
   return (
-    <main id="nosotros" className="cuerpo-nosotros w-full h-146 px-8 py-8 mx-auto content-center flex relative h-110 justify-between items-center scroll-mt-37">
+    <main id="nosotros" className="cuerpo-nosotros w-full h-152 px-8 py-8 mx-auto content-center flex relative h-110 justify-between items-start scroll-mt-37">
         
         <div className="contenido-izquierdo">
             

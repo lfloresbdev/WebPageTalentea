@@ -1,6 +1,6 @@
 function Landing() {
     return (
-        <div id="landing" className="cuerpo-landing py-10 scroll-mt-38">
+        <div id="landing" className="cuerpo-landing pb-8 h-156 mt-8 scroll-mt-42">
             <div className="bg-gray-50/35 inset-shadow-sm shadow-xl rounded-xl p-12 max-w-lg mx-auto">
                 <h1 className="landing-title text-5xl font-bold text-sky-700 text-center mb-6">
                     Regístrate Ahora
