@@ -8,7 +8,7 @@ import MisionVision from './components/layout/MisionVision/MisionVision'
 import PieDePagina from "./components/layout/PieDePagina/PieDePagina";
 import Prueba from './components/layout/Prueba/Prueba'
 import Landing from './components/layout/Landing/Landing'
-import Widgets from './components/layout/WidgetsFlotantes/Widgtes'
+import Widgets from './components/layout/WidgetsFlotantes/Widgets'
 
 function App() {
   return (
