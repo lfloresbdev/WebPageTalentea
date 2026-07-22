@@ -33,7 +33,7 @@ function Inicio() {
 
       </div>
 
-      <div className="contenido-derecho size-290 relative -right-20 top-26 z-10">
+      <div className="contenido-derecho size-290 relative -right-20 top-29.5 z-10">
         <img src="src/assets/images/ImagenDeInicio.png" alt="Imagen de inicio" className="w-full h-auto"/>
       </div>
 
