@@ -6,10 +6,9 @@ function Inicio() {
       
       <div className="contenido-izquierdo">
 
-        <div className="titulo-inicio">
-          
+        <div className="titulo-inicio relative">
           <h2 className="text-6xl mb-8 text-sky-700 w-150 font-display">CONECTAMOS <span className="text-pink-500">TALENTO</span> CON OPORTUNIDADES</h2>
-
+          <img src="src/assets/images/IconoEstrellaTransparente.png" alt="Estrella" className="absolute -top-2 right-27 size-20"/>
         </div>
 
         <div className="descripcion-inicio">
