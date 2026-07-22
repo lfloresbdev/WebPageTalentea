@@ -8,7 +8,7 @@ function Inicio() {
 
         <div className="titulo-inicio">
           
-          <h2 className="text-6xl font-bold mb-8 text-sky-700 w-150">CONECTAMOS <span className="text-pink-500">TALENTO</span> CON OPORTUNIDADES</h2>
+          <h2 className="text-6xl mb-8 text-sky-700 w-150 font-display">CONECTAMOS <span className="text-pink-500">TALENTO</span> CON OPORTUNIDADES</h2>
 
         </div>
 
