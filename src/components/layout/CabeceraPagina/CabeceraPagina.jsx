@@ -1,5 +1,5 @@
-import { useNavigationIndicator } from '../../hooks/UsarIndicadorNavegacion';
-import { navItems } from '../../config/navegacion';
+import { useNavigationIndicator } from '../../../hooks/UsarIndicadorNavegacion';
+import { navItems } from '../../../config/navegacion';
 
 function CabeceraPagina() {
   const sectionIds = navItems.map((item) => item.href.slice(1));
