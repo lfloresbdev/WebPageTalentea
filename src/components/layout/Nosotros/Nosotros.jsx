@@ -13,22 +13,22 @@ function Nosotros() {
             
             <div className="lista-nosotros">
                 
-                <ul className="text-sky-700 mb-8 w-auto space-y-3 pt-8">
+                <ul className="text-sky-700 mb-8 w-auto space-y-3 pt-8 mt-25">
                     
-                    <li className="flex items-center gap-3 text-xl">
-                        <FaCheckCircle className="size-8 text-pink-500 shrink-0" />
+                    <li className="flex items-center gap-3 text-2xl">
+                        <FaCheckCircle className="size-9 text-pink-500 shrink-0" />
                         <span>Acceso a oportunidades en empresas líderes</span>
                     </li>
-                    <li className="flex items-center gap-3 text-xl">
-                        <FaCheckCircle className="size-8 text-pink-500 shrink-0" />
+                    <li className="flex items-center gap-3 text-2xl">
+                        <FaCheckCircle className="size-9 text-pink-500 shrink-0" />
                         <span>Acompañamineto en cada parte del proceso</span>
                     </li>
-                    <li className="flex items-center gap-3 text-xl">
-                        <FaCheckCircle className="size-8 text-pink-500 shrink-0" />
+                    <li className="flex items-center gap-3 text-2xl">
+                        <FaCheckCircle className="size-9 text-pink-500 shrink-0" />
                         <span>Desarrollo profesional y crecimiento constante</span>
                     </li>
-                    <li className="flex items-center gap-3 text-xl">
-                        <FaCheckCircle className="size-8 text-pink-500 shrink-0" />
+                    <li className="flex items-center gap-3 text-2xl">
+                        <FaCheckCircle className="size-9 text-pink-500 shrink-0" />
                         <span>Ambiente laboral basado en el respeto y la colaboración</span>
                     </li>
                 
@@ -38,9 +38,9 @@ function Nosotros() {
             
             <div className="boton-nosotros">
 
-                <a href="#testimonios" className="w-52 group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-white hover:text-pink-500 flex items-center">
+                <a href="#testimonios" className="w-52 group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-pink-600 hover:text-whitw flex items-center">
                     Conocenos más
-                    <IoIosArrowDropright className="pl-3 size-12 text-white group-hover:text-pink-500"/>
+                    <IoIosArrowDropright className="pl-3 size-12 text-white group-hover:text-white"/>
                 </a>
             
             </div>

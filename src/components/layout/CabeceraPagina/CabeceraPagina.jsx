@@ -33,7 +33,7 @@ function CabeceraPagina() {
           </ul>
         </div>
         <div className="boton-postula w-47">
-          <a href="#landing" className="bg-pink-500 text-white font-bold py-2.5 px-6 rounded-3xl">POSTULA AHORA</a>
+          <a href="#landing" className="bg-pink-500 text-white font-bold py-2.5 px-6 rounded-3xl hover:bg-pink-600">POSTULA AHORA</a>
         </div>
       </div>
     </header>

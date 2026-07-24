@@ -19,9 +19,9 @@ function Inicio() {
 
         <div className="botones-inicio flex gap-4">
           
-          <a href="#vacantes" className="group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-white hover:text-pink-500 flex items-center">
+          <a href="#vacantes" className="group px-4 rounded font-bold bg-pink-500 border-2 border-pink-500 text-white hover:bg-pink-600 hover:text-white hover:border-pink-600 flex items-center">
             Ver Vacantes
-            <IoIosArrowDropright className="pl-3 size-12 text-white group-hover:text-pink-500"/>
+            <IoIosArrowDropright className="pl-3 size-12 text-white group-hover:text-white"/>
           </a>
 
           <a href="#landing" className="group px-4 rounded font-bold bg-white border-2 border-sky-700 text-sky-700 hover:bg-sky-700 hover:text-white flex items-center">
