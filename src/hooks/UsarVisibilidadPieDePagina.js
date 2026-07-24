@@ -8,7 +8,7 @@ export function UsarVisibilidadPieDePagina() {
         if (!footer) return;
         const observer = new IntersectionObserver(
             ([entry]) => setIsVisible(entry.isIntersecting),
-            { threshold: 0 }
+            { threshold: 0 } //Qué es esto?
         );
         observer.observe(footer);
         return () => observer.disconnect();
